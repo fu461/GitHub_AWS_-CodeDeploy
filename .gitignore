@@ -1,0 +1,3 @@
+# AWS Lambda artifacts 
+__pycache__/ 
+.env 
